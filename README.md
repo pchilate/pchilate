@@ -1,5 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=C39459&multiline=true&random=false&width=1000&height=80&lines=Hey+%F0%9F%91%8B+What's+up%3F;My+name+is+Pratik+A+dedicated+Full+Stack+Developer+based+in+India.)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
-"My current role involves Backend Development."<br>"At the moment, I'm focusing on Frontend Web Development and DSA."<br>"I'm keen on teaming up for projects centered around Python."<br>"I'm eager to make contributions to Open Source Projects."<br>"Feel free to inquire about anything; I'll do my best to assist you.
+👨‍💻 My current role involves Backend Development.<br>🖥️ At the moment, I'm focusing on Frontend Web Development and DSA.<br>🐍 I'm keen on teaming up for projects centered around Python.<br>🌐 I'm eager to make contributions to Open Source Projects.<br>💬 Feel free to inquire about anything; I'll do my best to assist you.
 
 
 ## 🌐 Socials:
